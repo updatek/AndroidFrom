@@ -18,7 +18,6 @@ public class InputElement extends BaseFormElement{
 
     protected InputElement(Context context){
         super(context);
-        this.mLayoutId = R.layout.
     }
 
     protected InputElement(Context context, AttributeSet attrs) {
